@@ -15,7 +15,6 @@ class Student(object):
         print("Name:", self.name)
         print("Branch:", self.branch)
 
-stu1 = Student('Harish','CSE')
-stu2 = Student('Somio','EEE')
+stu1 = Student('Som','CSE')
 print(stu1.print_details())
-print(stu2.print_details())
+
