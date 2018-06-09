@@ -1,20 +1,12 @@
-class Student(object):
-    
-    """
-    Returns a ```Student``` object with the given name and branch.
-    """
-    def __init__(self, name, branch):
-            self.name = name
-            self.branch = branch
-            print("A student object is created.")
+class Car:
+    def __init__(self,make,model,year):
+        self.make=make
+        self.model=model
+        self.year=year
 
     def print_details(self):
-        """
-        Prints the details of the student.
-        """
-        print("Name:", self.name)
-        print("Branch:", self.branch)
+        long_name=str(self.year)+' '+self.make+' '+self.model
+        return long_name.title()
 
-stu1 = Student('Som','CSE')
-print(stu1.print_details())
-
+c = Car('Audi','Z4',2016)
+print(c.print_details())
