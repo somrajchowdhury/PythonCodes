@@ -11,19 +11,19 @@
 
 ## Class and Object Creation
 
-**Check out :** `ObjectCreation.py`
+**Check out :** [ObjectCreation.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/ObjectCreation.py)
 
 Not surprisingly, all of us know how important role the classes and objects play in the programming language sphere. 
 
 ## Function Overloading
 
-**Check out :** `FunctionOverloading.py`
+**Check out :** [FunctionOverloading.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/FunctionOverloading.py)
 
 Some of my friends and books said function overloading isn't that popular in python, well this program might just serve the purpose.
 
 ## Menu Driven Calculator
 
-**Check out :** `SimpleMenuDrivenCalculator.py`
+**Check out :** [SimpleMenuDrivenCalculator.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/SimpleMenuDrivenCalculator.py)
 
 This calculator will not stop taking inputs even if you are tired. But you can comment the `while(True)` statement and give the calculator some rest.
 
