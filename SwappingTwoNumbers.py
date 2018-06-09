@@ -8,4 +8,3 @@ print()
 print('After Swapping')
 print('first number: ',n1)
 print('second number: ',n2)
-
