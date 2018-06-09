@@ -8,6 +8,7 @@
 - [Overload a Function](#Function-Overloading)
 - [Implement a Menu Driven Calculator](#Menu-Driven-Calculator)
 - [Perform Simple Stack Operations](#Stack-Operations)
+- [Swap Two Numbers without a Third Variable](#Swapping-Two-Numbers-Without-a-Third-Variable)
 
 ## Class and Object Creation
 
@@ -32,3 +33,9 @@ This calculator will not stop taking inputs even if you are tired. But you can c
 **Check out :** [StackOperations.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/StackOperations.py)
 
 If you are new to the family of Data Structures, then firstly you should introduce yourself to Mr. Stack. He is simple and easy.
+
+## Swapping Two Numbers Without a Third Variable
+
+**Check out :** [SwappingTwoNumbers.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/SwappingTwoNumbers.py)
+
+Well, swapping of two numbers can't get anymore easier with the Simultaneous assignments in Python 3.
