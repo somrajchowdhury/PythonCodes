@@ -30,3 +30,17 @@ print(s.size())    #Returns the number of elements the stack holds.
 print(s.pop())     #Stack is LastInFirstOut, as 8.4 is inserted last, it's popped.
 print(s.pop())     #'dog' element is popped.
 print(s.size())    #Returns the number of elements the stack holds.
+
+'''
+------OUTPUT------
+True
+4
+dog
+8.4
+3
+8.4
+dog
+1
+-------------------
+'''
+
