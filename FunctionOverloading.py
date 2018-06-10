@@ -14,4 +14,11 @@ obj1 = function_overload()
 print('Result = ',obj1.add(1,2))
 print('Result = ',obj1.add(1,2,3))
 
+'''
+------OUTPUT------
 
+Result =  3
+Result =  6
+
+------------------
+'''
