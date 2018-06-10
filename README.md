@@ -12,6 +12,7 @@
 - [Perform Simple Stack Operations](#stack-operations)
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
 - [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
+- [Built-in Methods of List Data Structure](#built--in-methods-of-list-data-structure)
 
 ## Class and Object Creation
 
@@ -48,3 +49,9 @@ Well, swapping of two numbers can't get anymore easier with the Simultaneous ass
 > **Check out :** [LeapYear.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/LeapYear.py)
 
 Still have a confusion on how many days a Leap Year has? Well, i won't say it, run the code and get all the answers you need about leap year and a normal year.
+
+## Built-in Methods of List Data Structure
+
+> **Check out :** [ListMethods.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/ListMethods.py)
+
+This PythonCode is the one stop shop for all the beginners and intermediates who would like to brush-up the List methods in Python 3. **Comments are not to be ignored.**
