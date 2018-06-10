@@ -3,6 +3,7 @@ class Car:
         self.make=make
         self.model=model
         self.year=year
+        print('A Car object is Created!')
 
     def print_details(self):
         long_name=str(self.year)+' '+self.make+' '+self.model
