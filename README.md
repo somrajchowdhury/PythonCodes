@@ -9,7 +9,7 @@
 - [Implement a Menu Driven Calculator](#menu-driven-calculator)
 - [Perform Simple Stack Operations](#stack-operations)
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
-- [Check if a Year is a Leap Year](#is-it-a-leap-year?)
+- [Check if a Year is a Leap Year](#is-it-a-leap-year-?)
 
 ## Class and Object Creation
 
