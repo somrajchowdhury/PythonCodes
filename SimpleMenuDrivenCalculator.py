@@ -30,3 +30,98 @@ while True:
         else:
             div = x/y
             print("Result : " + str(div))
+            
+'''
+This program does't quit until you give Choice: 5 which means 'Quit' in the menu.
+
+------OUTPUT------
+
+MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  1
+Enter first number: 1
+Enter second number: 2
+Sum : 3
+
+       MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  2
+Enter first number: 3
+Enter second number: 4
+Difference : -1
+
+       MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  3
+Enter first number: 5
+Enter second number: 6
+Product : 30
+
+       MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  4
+Enter first number: 1
+Enter second number: 0
+Math ErrOR!
+
+       MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  4
+Enter first number: 4
+Enter second number: 2
+Result : 2.0
+
+       MENU   
+-----------------
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Quit
+-----------------
+
+Enter your choice:
+Choice:  5
+
+------------------
+'''
