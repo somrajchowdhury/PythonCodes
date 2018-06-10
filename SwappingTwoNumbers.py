@@ -8,3 +8,19 @@ print()
 print('After Swapping')
 print('first number: ',n1)
 print('second number: ',n2)
+
+'''
+------OUTPUT------
+
+Before Swapping
+first number: 1
+second number: 2
+
+Swapping...
+
+After Swapping
+first number:  2
+second number:  1
+
+------------------
+'''
