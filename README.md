@@ -1,3 +1,5 @@
+# <a href="https://github.com/somrajchowdhury/PythonCodes/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" align="absmiddle"/>Python</a>
+
 # PythonCodes
 
 > This repository contains some basic python programs.
