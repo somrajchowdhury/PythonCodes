@@ -1,4 +1,4 @@
-# <a href="https://github.com/somrajchowdhury/PythonCodes/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" align="absmiddle"/>Python</a>
+# <a href="https://github.com/somrajchowdhury/PythonCodes/"><img src="https://olimex.files.wordpress.com/2014/06/python_sh-600x6001.png" align="absmiddle"/>Python</a>
 
 # PythonCodes
 
