@@ -4,12 +4,12 @@
 
 ## Program to :
 
-- [Create a Class and Objects](#Class-and-Object-Creation)
-- [Overload a Function](#Function-Overloading)
-- [Implement a Menu Driven Calculator](#Menu-Driven-Calculator)
-- [Perform Simple Stack Operations](#Stack-Operations)
-- [Swap Two Numbers without a Third Variable](#Swap-Two-Numbers-Without-a-Third-Variable)
-- [Check if a Year is a Leap Year](#Is-it-a-Leap-Year?)
+- [Create a Class and Objects](#class-and-object-creation)
+- [Overload a Function](#function-overloading)
+- [Implement a Menu Driven Calculator](#menu-driven-calculator)
+- [Perform Simple Stack Operations](#stack-operations)
+- [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
+- [Check if a Year is a Leap Year](#is-it-a-leap-year?)
 
 ## Class and Object Creation
 
