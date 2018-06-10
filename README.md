@@ -54,4 +54,4 @@ Still have a confusion on how many days a Leap Year has? Well, i won't say it, r
 
 > **Check out :** [ListMethods.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/ListMethods.py)
 
-This PythonCode is the one stop shop for all the beginners and intermediates who would like to brush-up the List methods in Python 3. **NOTE : *Comments are not to be ignored in this code.* **
+This PythonCode is the one stop shop for all the beginners and intermediates who would like to brush-up the List methods in Python 3. **NOTE : Comments are not to be ignored in this code.**
