@@ -146,3 +146,64 @@ print('List after clear() method')
 list1.clear()
 print(list1)
 print()
+
+'''
+------------------------OUTPUT------------------------
+
+[]
+[]
+
+[1, 2.3, 'Three']
+
+List in built methods 
+
+list1 = [3, 4, 2, 6, 1, 5]
+
+List after element 7 is appended
+[3, 4, 2, 6, 1, 5, 7]
+
+List after the extend() method
+[3, 4, 2, 6, 1, 5, 7, 8, 9]
+
+List sorted in ascending order
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+List sorted in descending order
+[9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+List after reverse() method
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+List after inserting the string 'TEN' at index 9
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 'TEN']
+
+The index() method
+Element 4 is at index 3
+
+The count() method
+Number of times the element 9 occurs in ths list : 1
+
+List after the pop() method
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+The popped element is : TEN
+
+List after the element at index 8 is deleted
+[1, 2, 3, 4, 5, 6, 7, 8]
+The popped element is : 9
+
+List after the element 7 is removed
+[1, 2, 3, 4, 5, 6, 8]
+
+Maximum element in the list is : 8
+
+Minimum element in the list is : 1
+
+Sum of the elements in the list is : 29
+
+Length of the list is : 7
+
+List after clear() method
+[]
+
+------------------------------------------------------
+'''
