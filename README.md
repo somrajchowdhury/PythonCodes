@@ -12,7 +12,7 @@
 
 ## Class and Object Creation
 
-**Check out :** [ObjectCreation.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/ObjectCreation.py)
+> **Check out :** [ObjectCreation.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/ObjectCreation.py)
 
 Not surprisingly, all of us know how important role the classes and objects play in the programming language sphere. 
 
