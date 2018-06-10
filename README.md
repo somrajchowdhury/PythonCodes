@@ -9,7 +9,7 @@
 - [Implement a Menu Driven Calculator](#menu-driven-calculator)
 - [Perform Simple Stack Operations](#stack-operations)
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
-- [Check if a Year is a Leap Year](#is-it-a-leap-year-?)
+- [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
 
 ## Class and Object Creation
 
@@ -41,7 +41,7 @@ If you are new to the family of Data Structures, then firstly you should introdu
 
 Well, swapping of two numbers can't get anymore easier with the Simultaneous assignments in Python 3.
 
-## Is it a Leap Year?
+## Look out for a Leap Year
 
 > **Check out :** [LeapYear.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/LeapYear.py)
 
