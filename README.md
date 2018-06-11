@@ -2,6 +2,8 @@
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/somrajchowdhury/PythonCodes/graphs/contributors)
 
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+
 [![Code Number](https://img.shields.io/badge/8-codes-brightgreen.svg)](https://github.com/somrajchowdhury/PythonCodes/)
 
 # PythonCodes
