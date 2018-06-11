@@ -1,5 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![Python version](https://img.shields.io/badge/Python-3.x-blue.svg)
+
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/somrajchowdhury/PythonCodes/graphs/contributors)
 
 # PythonCodes
