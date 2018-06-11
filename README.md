@@ -14,7 +14,7 @@
 - [Perform Simple Stack Operations](#stack-operations)
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
 - [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
-- [Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
+- [Grasp Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
 - [Find the Second Largest number in a List](#second-largest-number-in-a-list)
 
 ## Class and Object Creation
@@ -73,7 +73,7 @@ This PythonCode is the one stop shop for all the beginners and intermediates who
 > **Code Output :**         
 > ![List Methods](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/ListMethods.png "One stop to know all about the List Data Structure")
 
-## Second Largest Number in-a List
+## Second Largest Number in a List
 
 > **Check out :** [SecondLargestNumber.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/SecondLargestNumber.py)
 
