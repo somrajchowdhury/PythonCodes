@@ -15,6 +15,7 @@
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
 - [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
 - [Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
+- [Find the Second Largest number in a List](#second-largest-number-in-a-list)
 
 ## Class and Object Creation
 
@@ -71,3 +72,11 @@ Still have a confusion on how many days a Leap Year has? Well, i won't say it, r
 This PythonCode is the one stop shop for all the beginners and intermediates who would like to brush-up the List methods in Python 3. **NOTE : Comments are not to be ignored in this code.**
 > **Code Output :**         
 > ![List Methods](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/ListMethods.png "One stop to know all about the List Data Structure")
+
+## Second Largest Number in-a List
+
+> **Check out :** [SecondLargestNumber.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/SecondLargestNumber.py)
+
+For years, the Most Wanted number was the Largest number, this time the Second Largest number is the Criminal. Let us find and print him out.
+> **Code Output :**         
+> ![Second Largest Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SecondLargestNumber.png "Find the Second Largest Number in a List")
