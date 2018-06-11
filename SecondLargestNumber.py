@@ -21,6 +21,23 @@ print('Second Largest Element = ', list[count-2])       #'count-2' is the index 
                                                         # element from the end of the sorted list which
                                                         # is the Second Largest element in the List
 
+'''
+------OUTPUT------
 
+Enter size of the List: 5
+Element 1 : 98
+Element 2 : 89
+Element 3 : 63
+Element 4 : 72
+Element 5 : 29
+
+List = [98, 89, 63, 72, 29]
+
+Sorted List = [29, 63, 72, 89, 98]
+
+Second Largest Element =  89
+
+------------------
+'''
 
 
