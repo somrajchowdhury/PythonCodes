@@ -2,7 +2,7 @@
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/somrajchowdhury/PythonCodes/graphs/contributors)
 
-[![Code Number](https://img.shields.io/badge/9-codes-brightgreen.svg)](https://github.com/somrajchowdhury/PythonCodes/)
+[![Code Number](https://img.shields.io/badge/8-codes-brightgreen.svg)](https://github.com/somrajchowdhury/PythonCodes/)
 
 # PythonCodes
 
