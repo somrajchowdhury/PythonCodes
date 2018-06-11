@@ -13,7 +13,6 @@
 - [Swap Two Numbers without a Third Variable](#swap-two-numbers-without-a-third-variable)
 - [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
 - [Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
-    -[ListMethodsUpdate](#list-methods-update)
 
 ## Class and Object Creation
 
