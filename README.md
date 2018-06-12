@@ -28,7 +28,11 @@
 
 <div align="center">
   <sub>The little collection of python programs. Built with ❤︎ by
-  <a href="https://github.com/somrajchowdhury"Somraj Chowdhury></a> 
+  <a href="https://github.com/somrajchowdhury">Somraj Chowdhury</a> 
+</div>
+  
+<div align="center">
+  :boy:
 </div>
 
 > This repository contains some basic python programs.
