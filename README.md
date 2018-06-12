@@ -8,7 +8,7 @@
 <div align="center">
   <!-- Contributors -->
   <a href="https://github.com/somrajchowdhury/PythonCodes/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg"
+    <img src="https://img.shields.io/badge/contributor(s)-1-red.svg"
       alt="API stability" />
   </a>
 
