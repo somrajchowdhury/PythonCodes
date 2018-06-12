@@ -26,6 +26,11 @@
 
 <h1 align="center">PythonCodes</h1>
 
+<div align="center">
+  <sub>The little collection of python programs. Built with ❤︎ by
+  <a href="https://github.com/somrajchowdhury"Somraj Chowdhury></a> 
+</div>
+
 > This repository contains some basic python programs.
 
 ## Program to :
