@@ -24,7 +24,7 @@
   </a>
 </div>
 
-# PythonCodes
+<h1 align="center">PythonCodes</h1>
 
 > This repository contains some basic python programs.
 
