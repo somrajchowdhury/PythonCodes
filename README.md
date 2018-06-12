@@ -14,7 +14,7 @@
 
   <!-- Python Version -->
   <a href="https://github.com/somrajchowdhury/PythonCodes/">
-    <img src="https://img.shields.io/badge/Python-3.x-blue.svg)"
+    <img src="https://img.shields.io/badge/Python-3.x-blue.svg"
       alt="API stability" />
   </a>
   
