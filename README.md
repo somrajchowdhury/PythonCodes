@@ -1,10 +1,28 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"
+      alt="API stability" />
+  </a>
+</div>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/somrajchowdhury/PythonCodes/graphs/contributors)
+<div align="center">
+  <!-- Contributors -->
+  <a href="https://github.com/somrajchowdhury/PythonCodes/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg"
+      alt="API stability" />
+  </a>
 
-[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://github.com/somrajchowdhury/PythonCodes/)
-
-[![Code Number](https://img.shields.io/badge/8-codes-brightgreen.svg)](https://github.com/somrajchowdhury/PythonCodes/)
+  <!-- Python Version -->
+  <a href="https://github.com/somrajchowdhury/PythonCodes/">
+    <img src="https://img.shields.io/badge/Python-3.x-blue.svg)"
+      alt="API stability" />
+  </a>
+  
+  <a href="https://github.com/somrajchowdhury/PythonCodes/">
+    <img src="https://img.shields.io/badge/8-codes-brightgreen.svg"
+      alt="API stability" />
+  </a>
+</div>
 
 # PythonCodes
 
