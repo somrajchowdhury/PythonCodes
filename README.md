@@ -18,8 +18,9 @@
       alt="API stability" />
   </a>
   
+  <!-- Number of Codes -->
   <a href="https://github.com/somrajchowdhury/PythonCodes/">
-    <img src="https://img.shields.io/badge/8-codes-brightgreen.svg"
+    <img src="https://img.shields.io/badge/9-codes-brightgreen.svg"
       alt="API stability" />
   </a>
 </div>
@@ -47,6 +48,7 @@
 - [Check if a Year is a Leap Year](#look-out-for-a-leap-year)
 - [Grasp Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
 - [Find the Second Largest number in a List](#second-largest-number-in-a-list)
+- [Print the Largest Even and Largest Odd Number in a List](#largest-even-and-largest-odd-number-in-a-list)
 
 ## Class and Object Creation
 
@@ -127,3 +129,11 @@ For years, the Most Wanted number was the Largest number, this time the Second L
 > ![Second Largest Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SecondLargestNumber.png "Find the Second Largest Number in a List")
 
 [(Back to top)](#program-to)
+
+## Largest Even and Largest Odd Number in a List
+
+> **Check out :** [LargestEven&OddNumber.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/LargestEven&OddNumber.py)
+
+As per news reports from pythoNEWSTv, the Most Wanted number was the Largest number again. Reports clearly mention their names as Mr.Largest ODD and Mr.Largest EVEN. Let us get our hands dirty.
+> **Code Output :**         
+> ![Larget Even and Odd Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/.png "Find the Largest Even and Odd Number in a List")
