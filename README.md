@@ -76,7 +76,7 @@ Some of my friends and books said function overloading isn't that popular in pyt
 
 This calculator will not stop taking inputs even if you are tired. But you can comment the `while(True)` statement and give the calculator some rest.
 > **Code Output :**         
-> ![Menu Driven Calculator](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SimpleMenuDrivenCalculator.png "Menu Driven Calculator")
+> ![Menu Driven Calculator](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SimpleMenuDrivenCalculator.gif "Menu Driven Calculator")
 
 [(Back to top)](#program-to)
 
@@ -86,7 +86,7 @@ This calculator will not stop taking inputs even if you are tired. But you can c
 
 If you are new to the family of Data Structures, then firstly you should introduce yourself to Mr. Stack. He is simple and easy.
 > **Code Output :**         
-> ![Stack Operations](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/StackOperations.png "Stack Operations")
+> ![Stack Operations](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/StackOperations.gif "Stack Operations")
 
 [(Back to top)](#program-to)
 
@@ -96,7 +96,7 @@ If you are new to the family of Data Structures, then firstly you should introdu
 
 Well, swapping of two numbers can't get anymore easier with the Simultaneous assignments in Python 3.
 > **Code Output :**         
-> ![Swaping Two Numbers](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SwappingTwoNumbers.png "Swap Two Numbers Without a Third Variable")
+> ![Swaping Two Numbers](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SwappingTwoNumbers.gif "Swap Two Numbers Without a Third Variable")
 
 [(Back to top)](#program-to)
 
@@ -106,7 +106,7 @@ Well, swapping of two numbers can't get anymore easier with the Simultaneous ass
 
 Still have a confusion on how many days a Leap Year has? Well, i won't say it, run the code and get all the answers you need about leap year and a normal year.
 > **Code Output :**         
-> ![Leap Year](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/LeapYear.png "Checks if a year is a Lear Year")
+> ![Leap Year](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/LeapYear.gif "Checks if a year is a Lear Year")
 
 [(Back to top)](#program-to)
 
@@ -126,7 +126,7 @@ This PythonCode is the one stop shop for all the beginners and intermediates who
 
 For years, the Most Wanted number was the Largest number, this time the Second Largest number is the Criminal. Let us find and print him out.
 > **Code Output :**         
-> ![Second Largest Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SecondLargestNumber.png "Find the Second Largest Number in a List")
+> ![Second Largest Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/SecondLargestNumber.gif "Find the Second Largest Number in a List")
 
 [(Back to top)](#program-to)
 
@@ -136,6 +136,6 @@ For years, the Most Wanted number was the Largest number, this time the Second L
 
 As per news reports from pythoNEWSTv, the Most Wanted number was the Largest number again. Reports clearly mention their names as Mr.Largest ODD and Mr.Largest EVEN. Let us get our hands dirty.
 > **Code Output :**         
-> ![Larget Even and Odd Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/LargestEven&OddNumber.png "Find the Largest Even and Odd Number in a List")
+> ![Larget Even and Odd Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/LargestEven&OddNumber.gif "Find the Largest Even and Odd Number in a List")
 
 [(Back to top)](#program-to)
