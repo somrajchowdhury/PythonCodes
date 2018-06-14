@@ -49,6 +49,7 @@
 - [Grasp Built-in Methods of List Data Structure](#builtin-methods-of-list-data-structure)
 - [Find the Second Largest number in a List](#second-largest-number-in-a-list)
 - [Print the Largest Even and Largest Odd Number in a List](#largest-even-and-largest-odd-number-in-a-list)
+- [Generate Random Numbers](#random-number-generation)
 
 ## Class and Object Creation
 
@@ -139,3 +140,7 @@ As per news reports from pythoNEWSTv, the Most Wanted number was the Largest num
 > ![Larget Even and Odd Number](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/LargestEven&OddNumber.gif "Find the Largest Even and Odd Number in a List")
 
 [(Back to top)](#program-to)
+
+## Random Number Generation
+
+> **Check out :** [GenerateRandomNumbers.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/GenerateRandomNumbers.py)
