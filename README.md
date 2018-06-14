@@ -20,7 +20,7 @@
   
   <!-- Number of Codes -->
   <a href="https://github.com/somrajchowdhury/PythonCodes/">
-    <img src="https://img.shields.io/badge/9-codes-brightgreen.svg"
+    <img src="https://img.shields.io/badge/10-codes-brightgreen.svg"
       alt="API stability" />
   </a>
 </div>
