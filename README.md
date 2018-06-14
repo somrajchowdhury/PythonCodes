@@ -144,3 +144,7 @@ As per news reports from pythoNEWSTv, the Most Wanted number was the Largest num
 ## Random Number Generation
 
 > **Check out :** [GenerateRandomNumbers.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/GenerateRandomNumbers.py)
+
+You love to see when random numbers pop-up on the screen, don't you! The output is always different, so run the code yourself and try to guess the output. It'll be real fun!!
+> **Code Output :**         
+> ![Random Numbers](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/GenerateRandomNumbers.gif "Generate Random Numbers")
