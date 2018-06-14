@@ -40,7 +40,7 @@
 
 ## Program to
 
-1. [Create a Class and Objects](#class-and-object-creation)
+- [Create a Class and Objects](#class-and-object-creation)
 - [Overload a Function](#function-overloading)
 - [Implement a Menu Driven Calculator](#menu-driven-calculator)
 - [Perform Simple Stack Operations](#stack-operations)
