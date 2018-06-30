@@ -36,7 +36,7 @@
   :boy:
 </div>
 
-> This repository contains some basic python programs.
+> This repository contains some basic and important python programs which i learnt on the journey of learning python.
 
 ## Program to
 
