@@ -50,6 +50,7 @@
 - [Find the Second Largest number in a List](#second-largest-number-in-a-list)
 - [Print the Largest Even and Largest Odd Number in a List](#largest-even-and-largest-odd-number-in-a-list)
 - [Generate Random Numbers](#random-number-generation)
+- [Grasp Built-in Methods of Dictionary Data Structure](#builtin-methods-of-dictionary-data-structure)
 
 ## Class and Object Creation
 
@@ -148,5 +149,15 @@ As per news reports from pythoNEWSTv, the Most Wanted number was the Largest num
 You love to see when random numbers pop-up on the screen, don't you! The output is always different, so run the code yourself and try to guess the output. It'll be real fun!!
 > **Code Output :**         
 > ![Random Numbers](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/GenerateRandomNumbers.gif "Generate Random Numbers")
+
+[(Back to top)](#program-to)
+
+## BuiltIn Methods of Dictionary Data Structure
+
+> **Check out :** [DictionaryMethods.py](https://github.com/somrajchowdhury/PythonCodes/blob/master/DictionaryMethods.py)
+
+This PythonCode takes you through the basic dictionary methods **NOTE : Comments are not to be ignored in this code.**
+> **Code Output :**         
+> ![Dictionary Methods](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/ "One stop to know all about the Dictionary Data Structure")
 
 [(Back to top)](#program-to)
