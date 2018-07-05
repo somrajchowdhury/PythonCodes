@@ -6,5 +6,5 @@ import random
 
 
 for i in range(10):
-    r = random.randint(1, 51)   #(start_range, end_range+1)
+    r = random.randint(1, 50)   #(start_range, end_range)
     print(r)
