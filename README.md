@@ -158,6 +158,6 @@ You love to see when random numbers pop-up on the screen, don't you! The output 
 
 This PythonCode takes you through the basic dictionary methods **NOTE : Comments are not to be ignored in this code.**
 > **Code Output :**         
-> ![Dictionary Methods](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/ "One stop to know all about the Dictionary Data Structure")
+> ![Dictionary Methods](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/DictionaryMethods.jpg "One stop to know all about the Dictionary Data Structure")
 
 [(Back to top)](#program-to)
